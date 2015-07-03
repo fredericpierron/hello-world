@@ -1,2 +1,4 @@
 # hello-world
-Ressources et autres
+* Qui suis-je ? *
+Frédéric Pierron, sur le blog http://fredericpierron.com
+
